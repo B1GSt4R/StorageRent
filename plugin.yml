@@ -1,0 +1,13 @@
+name: StorageRent
+version: 0.3
+authors: [B1GSt4R]
+website: https://blockstone.de
+main: blockstone.B1GSt4R.StorageRent.Main.system
+softdepend: [Vault, TimeRank, BankCredit]
+commands:
+  storage:
+    usage: </command>
+    description: Rent a Storage
+  StorageRent:
+    usage: </command>
+    description: Version Checker
